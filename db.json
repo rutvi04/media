@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "b6de",
+      "name": "Patty Gibson"
+    },
+    {
+      "id": "b011",
+      "name": "Julius Streich"
+    },
+    {
+      "id": "2a18",
+      "name": "Agnes Schuster"
+    }
+  ],
+  "albums": [
+    {
+      "id": "1fab",
+      "userId": "1",
+      "title": "Intelligent Wooden Chicken"
+    },
+    {
+      "id": "098c",
+      "userId": "1",
+      "title": "Awesome Metal Computer"
+    },
+    {
+      "id": "bb74",
+      "userId": "b6de",
+      "title": "Awesome Steel Chair"
+    },
+    {
+      "id": "f032",
+      "userId": "b6de",
+      "title": "Intelligent Plastic Towels"
+    },
+    {
+      "id": "4a2c",
+      "userId": "b6de",
+      "title": "Modern Granite Table"
+    },
+    {
+      "id": "d012",
+      "userId": "b011",
+      "title": "Intelligent Metal Bike"
+    },
+    {
+      "id": "fc84",
+      "userId": "2a18",
+      "title": "Fantastic Soft Pizza"
+    }
+  ],
+  "photos": [
+    {
+      "id": "7a1b",
+      "albumId": "fc84",
+      "url": "https://loremflickr.com/150/150/abstract?lock=1788"
+    },
+    {
+      "id": "62c8",
+      "albumId": "1fab",
+      "url": "https://loremflickr.com/150/150/abstract?lock=16120"
+    },
+    {
+      "id": "584f",
+      "albumId": "1fab",
+      "url": "https://loremflickr.com/150/150/abstract?lock=31594"
+    },
+    {
+      "id": "fc8e",
+      "albumId": "fc84",
+      "url": "https://loremflickr.com/150/150/abstract?lock=40265"
+    },
+    {
+      "id": "d3c1",
+      "albumId": "fc84",
+      "url": "https://loremflickr.com/150/150/abstract?lock=66016"
+    },
+    {
+      "id": "c1bb",
+      "albumId": "fc84",
+      "url": "https://loremflickr.com/150/150/abstract?lock=9892"
+    }
+  ]
+}
